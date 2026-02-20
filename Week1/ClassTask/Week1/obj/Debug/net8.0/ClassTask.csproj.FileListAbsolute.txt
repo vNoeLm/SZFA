@@ -1,0 +1,15 @@
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\bin\Debug\net8.0\ClassTask.exe
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\bin\Debug\net8.0\ClassTask.deps.json
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\bin\Debug\net8.0\ClassTask.runtimeconfig.json
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\bin\Debug\net8.0\ClassTask.dll
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\bin\Debug\net8.0\ClassTask.pdb
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ClassTask.AssemblyInfo.cs
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ClassTask.sourcelink.json
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ClassTask.dll
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\refint\ClassTask.dll
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ClassTask.pdb
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ClassTask.genruntimeconfig.cache
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ref\ClassTask.dll
