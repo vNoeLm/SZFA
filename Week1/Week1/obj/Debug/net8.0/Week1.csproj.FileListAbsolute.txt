@@ -12,3 +12,4 @@ C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\refint\Week1.dl
 C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\Week1.pdb
 C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\Week1.genruntimeconfig.cache
 C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\ref\Week1.dll
+C:\Users\Noel\Documents\GitHub\SZFA\Week1\Week1\obj\Debug\net8.0\Week1.sourcelink.json

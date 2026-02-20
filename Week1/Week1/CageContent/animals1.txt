@@ -1,0 +1,10 @@
+Bogyó;Rabbit;2;false
+Rex;Dog;25;true
+Puffancs;Panda;110;false
+Lassie;Dog;18;false
+Tapsi;Rabbit;3;true
+Bruno;Dog;32;true
+Mei;Panda;95;false
+Hópehely;Rabbit;1;false
+Morzsa;Dog;8;true
+Lili;Rabbit;2;false

@@ -1,0 +1,10 @@
+Kung-Fu;Panda;125;true
+Bella;Dog;22;false
+Gombóc;Rabbit;4;true
+Maci;Panda;105;true
+Fickó;Dog;15;true
+Pamacs;Rabbit;2;false
+Zsemle;Dog;12;false
+Bambusz;Panda;115;true
+Pelyhes;Rabbit;3;false
+Hektór;Dog;40;true

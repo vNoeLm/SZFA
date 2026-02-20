@@ -15,6 +15,35 @@ namespace Week1
             this.animals = new Animal[size];
         }
 
+        public static Cage[] ParseData(string DirectoryPath)
+        {
+            int cageCount = Directory.GetFiles(DirectoryPath).Length;
+            Cage[] cages = new Cage[cageCount];
+
+            int CageIndex = 0;
+            foreach (string fileName in Directory.GetFiles(DirectoryPath))
+            {
+                string[] lines = File.ReadAllLines(fileName);
+                int LineCount = lines.Length;
+                Cage cage = new Cage(LineCount);
+
+                foreach (string line in lines)
+                {
+                    string[] parts = line.Split(';');
+                    string name = parts[0];
+                    Species species = Enum.Parse<Species>(parts[1]);
+                    int weight = int.Parse(parts[2]);
+                    bool gender = bool.Parse(parts[3]);
+
+                    Animal animal = new Animal(name, gender, weight, species);
+                    cage.Add(animal);
+                }
+                cages[CageIndex] = cage;
+                CageIndex++;
+            }
+            return cages;
+        }
+
         public bool Add(Animal animal)
         {
             if (CurrentAnimalCount < animals.Length)

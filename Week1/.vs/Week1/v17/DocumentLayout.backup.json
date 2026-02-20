@@ -13,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5699221D-59EA-497F-9D59-A4A17EE7BB97}|Week1\\Week1.csproj|c:\\users\\noel\\documents\\github\\szfa\\week1\\week1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5699221D-59EA-497F-9D59-A4A17EE7BB97}|Week1\\Week1.csproj|solutionrelative:week1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5699221D-59EA-497F-9D59-A4A17EE7BB97}|Week1\\Week1.csproj|c:\\users\\noel\\documents\\github\\szfa\\week1\\week1\\cagecontent\\animals1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5699221D-59EA-497F-9D59-A4A17EE7BB97}|Week1\\Week1.csproj|solutionrelative:week1\\cagecontent\\animals1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5699221D-59EA-497F-9D59-A4A17EE7BB97}|Week1\\Week1.csproj|c:\\users\\noel\\documents\\github\\szfa\\week1\\week1\\cagecontent\\animals2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5699221D-59EA-497F-9D59-A4A17EE7BB97}|Week1\\Week1.csproj|solutionrelative:week1\\cagecontent\\animals2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +44,7 @@
               "RelativeDocumentMoniker": "Week1\\Cage.cs",
               "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week1\\Week1\\Cage.cs",
               "RelativeToolTip": "Week1\\Cage.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAuwIIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:03:26.092Z",
               "EditorCaption": ""
@@ -49,7 +57,7 @@
               "RelativeDocumentMoniker": "Week1\\Animal.cs",
               "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week1\\Week1\\Animal.cs",
               "RelativeToolTip": "Week1\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:01:07.324Z",
               "EditorCaption": ""
@@ -62,9 +70,35 @@
               "RelativeDocumentMoniker": "Week1\\Program.cs",
               "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week1\\Week1\\Program.cs",
               "RelativeToolTip": "Week1\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDgAAAB+AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwD0AAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T23:00:29.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "animals1.txt",
+              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week1\\Week1\\CageContent\\animals1.txt",
+              "RelativeDocumentMoniker": "Week1\\CageContent\\animals1.txt",
+              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week1\\Week1\\CageContent\\animals1.txt",
+              "RelativeToolTip": "Week1\\CageContent\\animals1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-20T07:57:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "animals2.txt",
+              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week1\\Week1\\CageContent\\animals2.txt",
+              "RelativeDocumentMoniker": "Week1\\CageContent\\animals2.txt",
+              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week1\\Week1\\CageContent\\animals2.txt",
+              "RelativeToolTip": "Week1\\CageContent\\animals2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-20T08:01:19.067Z",
               "EditorCaption": ""
             }
           ]
