@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week2\\classtask\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week2\\classtask\\classtask\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week2\\classtask\\classtask\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week2\\classtask\\classtask\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week2\\classtask\\classtask\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC5E89E-0183-4A3C-9166-FDBC3BCB0B74}|ClassTask\\ClassTask.csproj|solutionrelative:classtask\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Circle.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Circle.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Circle.cs",
+              "RelativeToolTip": "ClassTask\\Circle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:23:23.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Square.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Square.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Square.cs",
+              "RelativeToolTip": "ClassTask\\Square.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T15:02:57.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Rectangle.cs",
+              "RelativeToolTip": "ClassTask\\Rectangle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:48:05.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Shape.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Shape.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Shape.cs",
+              "RelativeToolTip": "ClassTask\\Shape.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:28:29.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Program.cs",
+              "RelativeDocumentMoniker": "ClassTask\\Program.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week2\\ClassTask\\ClassTask\\Program.cs",
+              "RelativeToolTip": "ClassTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T14:21:27.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
