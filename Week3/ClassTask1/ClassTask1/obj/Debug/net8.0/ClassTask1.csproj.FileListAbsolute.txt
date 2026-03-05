@@ -1,0 +1,15 @@
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\bin\Debug\net8.0\ClassTask1.exe
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\bin\Debug\net8.0\ClassTask1.deps.json
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\bin\Debug\net8.0\ClassTask1.runtimeconfig.json
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\bin\Debug\net8.0\ClassTask1.dll
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\bin\Debug\net8.0\ClassTask1.pdb
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ClassTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ClassTask1.AssemblyInfoInputs.cache
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ClassTask1.AssemblyInfo.cs
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ClassTask1.csproj.CoreCompileInputs.cache
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ClassTask1.sourcelink.json
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ClassTask1.dll
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\refint\ClassTask1.dll
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ClassTask1.pdb
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ClassTask1.genruntimeconfig.cache
+C:\Users\Noel\Documents\GitHub\SZFA\Week3\ClassTask1\ClassTask1\obj\Debug\net8.0\ref\ClassTask1.dll
