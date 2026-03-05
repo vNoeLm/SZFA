@@ -4,12 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Comic[] comics = new Comic[]
-            {
-                                new Comic { Author = "Stan Lee", Title = "Spider-Man", PageCount = 780 },
-                                new Comic { Author = "Frank Miller", Title = "The Dark Knight Returns", PageCount = 200 },
-                                new Comic { Author = "Alan Moore", Title = "Watchmen", PageCount = 550 }
-            };
+            Comic[] comics =
+            [
+                                new() { Author = "Stan Lee", Title = "Spider-Man", PageCount = 780 },
+                                new() { Author = "Frank Miller", Title = "The Dark Knight Returns", PageCount = 200 },
+                                new() { Author = "Alan Moore", Title = "Watchmen", PageCount = 550 }
+            ];
             Console.WriteLine("Befire Sorting: ");
             foreach (var comic in comics)
             {

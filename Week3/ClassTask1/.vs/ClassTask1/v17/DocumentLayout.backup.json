@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\",
+  "WorkspaceRootPath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BF30D77-94B4-4889-896A-1F602D0AD4ED}|ClassTask1\\ClassTask1.csproj|c:\\users\\noel\\documents\\github\\szfa\\week3\\classtask1\\classtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF30D77-94B4-4889-896A-1F602D0AD4ED}|ClassTask1\\ClassTask1.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week3\\classtask1\\classtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF30D77-94B4-4889-896A-1F602D0AD4ED}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF30D77-94B4-4889-896A-1F602D0AD4ED}|ClassTask1\\ClassTask1.csproj|c:\\users\\noel\\documents\\github\\szfa\\week3\\classtask1\\classtask1\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF30D77-94B4-4889-896A-1F602D0AD4ED}|ClassTask1\\ClassTask1.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week3\\classtask1\\classtask1\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF30D77-94B4-4889-896A-1F602D0AD4ED}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,21 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Comic.cs",
-              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\Comic.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\Comic.cs",
               "RelativeDocumentMoniker": "ClassTask1\\Comic.cs",
-              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\Comic.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\Comic.cs",
               "RelativeToolTip": "ClassTask1\\Comic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T12:20:19.446Z",
               "EditorCaption": ""
@@ -41,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\Program.cs",
               "RelativeDocumentMoniker": "ClassTask1\\Program.cs",
-              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\Program.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\Program.cs",
               "RelativeToolTip": "ClassTask1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T12:19:53.647Z",
               "EditorCaption": ""

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\ClassTask1.csproj": {}
+    "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\ClassTask1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\ClassTask1.csproj": {
+    "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\ClassTask1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\ClassTask1.csproj",
+        "projectUniqueName": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\ClassTask1.csproj",
         "projectName": "ClassTask1",
-        "projectPath": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\ClassTask1.csproj",
-        "packagesPath": "C:\\Users\\Noel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\obj\\",
+        "projectPath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\ClassTask1.csproj",
+        "packagesPath": "C:\\Users\\vnoel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week3\\ClassTask1\\ClassTask1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Noel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vnoel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
