@@ -7,7 +7,7 @@ namespace ZHGyak
     public interface IDeliverable
     {
         int Weight { get; set; }
-        string Address { get; set; }
+        string Recipient { get; set; }
 
         public double CalculatePrice(bool fromLocker);
     }

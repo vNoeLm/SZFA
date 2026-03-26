@@ -6,8 +6,6 @@ namespace ZHGyak
 {
     public class DeliveryException : Exception
     {
-        public DeliveryException() : base("A csomag nem adhato fel automatabol!"){ }
-
         public DeliveryException(string message) : base(message){}
     }
 }

@@ -14,8 +14,6 @@ namespace ZHGyak
     {
 
         public int Weight { get; set; }
-        public string Address { get; set; }
-
         public Orientation Orient { get; private set; }
         public string Recipient { get; set; }
 

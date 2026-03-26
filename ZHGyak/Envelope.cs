@@ -8,13 +8,11 @@ namespace ZHGyak
     {
         public string Description { get; set; }
         public int Weight { get; set; }
-        public string Address { get; set; }
         public string Recipient { get; set; }
 
-        public Envelope(int weight, string address, string description, string recipient)
+        public Envelope(int weight, string description, string recipient)
         {
             Weight = weight;
-            Address = address;
             Description = description;
             Recipient = recipient;
         }
