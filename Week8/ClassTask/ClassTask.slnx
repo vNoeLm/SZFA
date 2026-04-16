@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ClassTaskTest/ClassTaskTest.csproj" />
+  <Project Path="ClassTask.csproj" />
+</Solution>

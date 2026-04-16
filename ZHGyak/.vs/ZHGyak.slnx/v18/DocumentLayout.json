@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\ZHGyak\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4967C6CF-34B1-4F5A-AF95-C48F31B4C11F}|..\\TestProject1\\TestProject1.csproj|c:\\users\\noel\\documents\\github\\szfa\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4B1E576-963D-55FD-19C6-280159383C34}|..\\TestProject1\\TestProject1.csproj|c:\\users\\noel\\documents\\github\\szfa\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D90144C-241D-422D-B2A2-AA8D28313249}|ZHGyak.csproj|c:\\users\\noel\\documents\\github\\szfa\\zhgyak\\normalparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D90144C-241D-422D-B2A2-AA8D28313249}|ZHGyak.csproj|solutionrelative:normalparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C745EF0-D02A-A241-53FE-F3177B169823}|ZHGyak.csproj|c:\\users\\noel\\documents\\github\\szfa\\zhgyak\\normalparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C745EF0-D02A-A241-53FE-F3177B169823}|ZHGyak.csproj|solutionrelative:normalparcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,7 +27,7 @@
               "RelativeDocumentMoniker": "NormalParcel.cs",
               "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\ZHGyak\\NormalParcel.cs",
               "RelativeToolTip": "NormalParcel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T00:03:04.736Z",
               "EditorCaption": ""
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "..\\TestProject1\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\TestProject1\\UnitTest1.cs",
               "RelativeToolTip": "..\\TestProject1\\UnitTest1.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwEsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowEcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T23:57:43.233Z",
               "EditorCaption": ""
