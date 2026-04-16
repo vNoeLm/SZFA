@@ -8,9 +8,9 @@ namespace TestProject1
     {
 
         [Test]
-        public void Envelope_CalculatePrice_CorrectPrices()
+        public void Envelope_CalculatePrice()
         {
-            var env = new Envelope(100, "Cím", "Leírás", "Címzett");
+            var env = new Envelope(100, "Leírás", "Címzett");
 
             Assert.AreEqual(400, env.CalculatePrice(false));
             Assert.AreEqual(400, env.CalculatePrice(true));
@@ -19,7 +19,7 @@ namespace TestProject1
         [Test]
         public void Envelope_Overweight_ThrowsException()
         {
-            var heavyEnv = new Envelope(2500, "Cím", "Leírás", "Címzett");
+            var heavyEnv = new Envelope(2500, "Leírás", "Címzett");
 
             Assert.Throws<OverweightException>(() => heavyEnv.CalculatePrice(false));
         }
@@ -34,7 +34,7 @@ namespace TestProject1
         }
 
         [Test]
-        public void FragileParcel_ArbitraryOrientation_ThrowsException()
+        public void FragileParcel_Arbitrary_ThrowsException()
         {
             Assert.Throws<IncorrectOrientationException>(() =>
                 new FragileParcel(100, Orientation.Arbitrary, "Címzett"));
@@ -42,10 +42,10 @@ namespace TestProject1
 
 
         [Test]
-        public void Courier_PickUpItem_UpdatesTotalWeight()
+        public void Courier_PickUpItem()
         {
             var courier = new Courier(5);
-            var env = new Envelope(100, "Cím", "Leírás", "A");
+            var env = new Envelope(100, "Leírás", "A");
             var parcel = new NormalParcel(500, "B");
 
             courier.PickUpItem(env);
@@ -55,7 +55,7 @@ namespace TestProject1
         }
 
         [Test]
-        public void Courier_FragilesSorted_WorksCorrectly()
+        public void Courier_FragilesSorted()
         {
             var courier = new Courier(5);
             var f1 = new FragileParcel(1000, Orientation.Vertical, "Nehéz");

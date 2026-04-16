@@ -18,7 +18,7 @@ namespace ZHGyak
         {
             if (fromLocker)
             {
-                throw new DeliveryException();
+                throw new DeliveryException("A csomagot nem lehet automatánol feladni!");
             }
             int price = 1000 + (2 * Weight);
             return price;
