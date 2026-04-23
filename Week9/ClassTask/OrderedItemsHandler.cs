@@ -5,13 +5,13 @@ using System.Text;
 
 namespace ClassTask
 {
-    enum SortingMethod
+    public enum SortingMethod
     {
         Selection,
         Bubble,
         Insertion
     }
-    internal class OrderedItemsHandler
+    public class OrderedItemsHandler
     {
         private readonly IComparable[] items;
 
@@ -29,7 +29,7 @@ namespace ClassTask
                 {
                     if (comp > 0) return false;
                 }
-                if (!isAscending)
+                else
                 {
                     if (comp < 0) return false;
                 }
@@ -173,9 +173,97 @@ namespace ClassTask
                     else return RecursiveBinarySearch(target, isAscending, left, mid - 1);
                 }
             }
-
             throw new ItemNotFoundException();
         }
         #endregion
+
+        public int FindIndexOfLargerOrEqualNumber(IComparable target, bool isAscending = true)
+        {
+            if (!IsOrdered(isAscending)) throw new NotOrderedItemsException(this.items);
+
+            int left = 0;
+            int right = items.Length - 1;
+            int index = 0;
+
+            while (left <= right)
+            {
+                int mid = left + (right - left) / 2;
+                int comparison = items[mid].CompareTo(target);
+
+                if (comparison >= 0 )
+                {
+                    index = mid;
+                    right = mid - 1;
+                }
+                else
+                {
+                    left = mid + 1;
+                }
+            }
+            return index;
+        }
+
+        public int FindIndexOfLargerNumber(IComparable target, bool isAscending = true)
+        {
+            if (!IsOrdered(isAscending)) throw new NotOrderedItemsException(this.items);
+
+            int left = 0;
+            int right = items.Length - 1;
+            int index = 0;
+
+            while (left <= right)
+            {
+                int mid = left + (right - left) / 2;
+                int comparison = items[mid].CompareTo(target);
+
+                if (comparison > 0)
+                {
+                    index = mid;
+                    right = mid - 1;
+                }
+                else
+                {
+                    left = mid + 1;
+                }
+            }
+            return index;
+        }
+
+        public int CountEqualToTarget(IComparable target, bool isAscending = true)
+        {
+            if (!IsOrdered(isAscending)) throw new NotOrderedItemsException(this.items);
+
+            int firstTarget = FindIndexOfLargerOrEqualNumber(target, isAscending);
+            int GreaterThanTarget = FindIndexOfLargerNumber(target, isAscending);
+
+            int count = GreaterThanTarget - firstTarget;
+
+            return count;
+        }
+
+        public int CountItemsInRange(IComparable start, IComparable end, bool isAscending = true)
+        {
+            if (!IsOrdered(isAscending)) throw new NotOrderedItemsException(this.items);
+
+            int first = FindIndexOfLargerOrEqualNumber(start, isAscending);
+            int last = FindIndexOfLargerNumber(end, isAscending);
+            int count = last - first;
+
+            return count;
+        }
+
+        public IComparable[] GetItemsInRange(IComparable start, IComparable end, bool isAscending = true)
+        {
+            int first = FindIndexOfLargerOrEqualNumber(start, isAscending);
+            int last = FindIndexOfLargerNumber(end, isAscending);
+            int count = last - first;
+
+            IComparable[] res = new IComparable[count];
+            for (int i = 0; i < count; i++)
+            {
+                res[i] = items[first + i];
+            }
+            return res;
+        }
     }
 }
