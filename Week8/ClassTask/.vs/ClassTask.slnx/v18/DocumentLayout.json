@@ -1,31 +1,31 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\",
+  "WorkspaceRootPath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5191A35-C73A-ACC8-2ECB-E046721DC838}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\monthlycoststests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\MonthlyCostsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5191A35-C73A-ACC8-2ECB-E046721DC838}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\yearlycoststests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5191A35-C73A-ACC8-2ECB-E046721DC838}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\trainingcosttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\yearlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week8\\classtask\\yearlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:yearlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\trainingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week8\\classtask\\trainingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:trainingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\monthlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week8\\classtask\\monthlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:monthlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week8\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\YearlyCostsTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\TrainingCostTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,24 +39,24 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "YearlyCostsTests.cs",
               "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\YearlyCostsTests.cs",
-              "RelativeDocumentMoniker": "..\\ClassTaskTest\\YearlyCostsTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\YearlyCostsTests.cs",
               "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\YearlyCostsTests.cs",
-              "RelativeToolTip": "..\\ClassTaskTest\\YearlyCostsTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\YearlyCostsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T11:00:46.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "TrainingCostTests.cs",
               "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\TrainingCostTests.cs",
-              "RelativeDocumentMoniker": "..\\ClassTaskTest\\TrainingCostTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\TrainingCostTests.cs",
               "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\TrainingCostTests.cs",
-              "RelativeToolTip": "..\\ClassTaskTest\\TrainingCostTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\TrainingCostTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-16T11:00:40.507Z"
@@ -66,21 +66,19 @@
               "DocumentIndex": 0,
               "Title": "MonthlyCostsTests.cs",
               "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\MonthlyCostsTests.cs",
-              "RelativeDocumentMoniker": "..\\ClassTaskTest\\MonthlyCostsTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\MonthlyCostsTests.cs",
               "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\MonthlyCostsTests.cs",
-              "RelativeToolTip": "..\\ClassTaskTest\\MonthlyCostsTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\MonthlyCostsTests.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T11:00:26.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T11:00:26.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "YearlyCosts.cs",
-              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\YearlyCosts.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\YearlyCosts.cs",
               "RelativeDocumentMoniker": "YearlyCosts.cs",
-              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\YearlyCosts.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\YearlyCosts.cs",
               "RelativeToolTip": "YearlyCosts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "TrainingCost.cs",
-              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\TrainingCost.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\TrainingCost.cs",
               "RelativeDocumentMoniker": "TrainingCost.cs",
-              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\TrainingCost.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\TrainingCost.cs",
               "RelativeToolTip": "TrainingCost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,11 +98,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MonthlyCosts.cs",
-              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\MonthlyCosts.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\MonthlyCosts.cs",
               "RelativeDocumentMoniker": "MonthlyCosts.cs",
-              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\MonthlyCosts.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\MonthlyCosts.cs",
               "RelativeToolTip": "MonthlyCosts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,11 +110,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\Program.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

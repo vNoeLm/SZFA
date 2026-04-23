@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A4C8AE2D-22B4-48CD-9A10-0C821E0339A4}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\arraystatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{897A5FEC-4335-40DC-A791-2BE5E19B428C}|TestProject1\\TestProject1.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week4\\classtask1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{897A5FEC-4335-40DC-A791-2BE5E19B428C}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4C8AE2D-22B4-48CD-9A10-0C821E0339A4}|ClassTask1\\ClassTask1.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week4\\classtask1\\classtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4C8AE2D-22B4-48CD-9A10-0C821E0339A4}|ClassTask1\\ClassTask1.csproj|solutionrelative:classtask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{897A5FEC-4335-40DC-A791-2BE5E19B428C}|TestProject1\\TestProject1.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week4\\classtask1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{897A5FEC-4335-40DC-A791-2BE5E19B428C}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week4\\ClassTask1\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
@@ -34,8 +34,7 @@
               "RelativeToolTip": "TestProject1\\UnitTest1.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T15:27:31.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T15:27:31.861Z"
             },
             {
               "$type": "Document",
@@ -45,14 +44,14 @@
               "RelativeDocumentMoniker": "ClassTask1\\ArrayStatistics.cs",
               "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week4\\ClassTask1\\ClassTask1\\ArrayStatistics.cs",
               "RelativeToolTip": "ClassTask1\\ArrayStatistics.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowGYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T15:22:54.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week4\\ClassTask1\\ClassTask1\\Program.cs",
               "RelativeDocumentMoniker": "ClassTask1\\Program.cs",

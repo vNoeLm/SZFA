@@ -3,29 +3,29 @@
   "WorkspaceRootPath": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C53E98B-FBF9-47A8-A319-A286EC8005F8}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\monthlycoststests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5191A35-C73A-ACC8-2ECB-E046721DC838}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\monthlycoststests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C53E98B-FBF9-47A8-A319-A286EC8005F8}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\trainingcosttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5191A35-C73A-ACC8-2ECB-E046721DC838}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\yearlycoststests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C53E98B-FBF9-47A8-A319-A286EC8005F8}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\yearlycoststests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5191A35-C73A-ACC8-2ECB-E046721DC838}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtasktest\\trainingcosttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{397C3E58-8553-47C3-BA75-1B43A89E9764}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\yearlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{397C3E58-8553-47C3-BA75-1B43A89E9764}|ClassTask.csproj|solutionrelative:yearlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\yearlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:yearlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{397C3E58-8553-47C3-BA75-1B43A89E9764}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\monthlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{397C3E58-8553-47C3-BA75-1B43A89E9764}|ClassTask.csproj|solutionrelative:monthlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\trainingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:trainingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{397C3E58-8553-47C3-BA75-1B43A89E9764}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\trainingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{397C3E58-8553-47C3-BA75-1B43A89E9764}|ClassTask.csproj|solutionrelative:trainingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\monthlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:monthlycosts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{397C3E58-8553-47C3-BA75-1B43A89E9764}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{397C3E58-8553-47C3-BA75-1B43A89E9764}|ClassTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\noel\\documents\\github\\szfa\\week8\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,7 +39,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "YearlyCostsTests.cs",
               "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\YearlyCostsTests.cs",
               "RelativeDocumentMoniker": "..\\ClassTaskTest\\YearlyCostsTests.cs",
@@ -47,12 +47,11 @@
               "RelativeToolTip": "..\\ClassTaskTest\\YearlyCostsTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T11:00:46.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T11:00:46.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TrainingCostTests.cs",
               "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\TrainingCostTests.cs",
               "RelativeDocumentMoniker": "..\\ClassTaskTest\\TrainingCostTests.cs",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "..\\ClassTaskTest\\TrainingCostTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T11:00:40.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T11:00:40.507Z"
             },
             {
               "$type": "Document",
@@ -86,12 +84,11 @@
               "RelativeToolTip": "YearlyCosts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T10:56:53.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T10:56:53.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TrainingCost.cs",
               "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\TrainingCost.cs",
               "RelativeDocumentMoniker": "TrainingCost.cs",
@@ -99,12 +96,11 @@
               "RelativeToolTip": "TrainingCost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T10:56:49.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T10:56:49.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MonthlyCosts.cs",
               "DocumentMoniker": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\MonthlyCosts.cs",
               "RelativeDocumentMoniker": "MonthlyCosts.cs",
@@ -112,8 +108,7 @@
               "RelativeToolTip": "MonthlyCosts.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T10:56:44.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T10:56:44.296Z"
             },
             {
               "$type": "Document",
@@ -125,8 +120,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T10:52:28.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-16T10:52:28.348Z"
             }
           ]
         }

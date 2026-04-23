@@ -1,24 +1,36 @@
 {
   "version": 2,
-  "dgSpecHash": "VfnhlVGc5ME=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Noel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\ClassTaskTest.csproj",
+  "dgSpecHash": "y8nQ2NOuNQY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\ClassTaskTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Noel\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.codecoverage\\17.14.0\\microsoft.codecoverage.17.14.0.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\microsoft.net.test.sdk.17.14.0.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.5.3\\microsoft.testing.extensions.telemetry.1.5.3.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.5.3\\microsoft.testing.extensions.trxreport.abstractions.1.5.3.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.5.3\\microsoft.testing.extensions.vstestbridge.1.5.3.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.testing.platform\\1.5.3\\microsoft.testing.platform.1.5.3.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.5.3\\microsoft.testing.platform.msbuild.1.5.3.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.0\\microsoft.testplatform.objectmodel.17.14.0.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\microsoft.testplatform.testhost\\17.14.0\\microsoft.testplatform.testhost.17.14.0.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\nunit.analyzers\\4.7.0\\nunit.analyzers.4.7.0.nupkg.sha512",
-    "C:\\Users\\Noel\\.nuget\\packages\\nunit3testadapter\\5.0.0\\nunit3testadapter.5.0.0.nupkg.sha512"
+    "C:\\Users\\vnoel\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.codecoverage\\17.14.0\\microsoft.codecoverage.17.14.0.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.net.test.sdk\\17.14.0\\microsoft.net.test.sdk.17.14.0.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.testing.extensions.telemetry\\1.5.3\\microsoft.testing.extensions.telemetry.1.5.3.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.testing.extensions.trxreport.abstractions\\1.5.3\\microsoft.testing.extensions.trxreport.abstractions.1.5.3.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.testing.extensions.vstestbridge\\1.5.3\\microsoft.testing.extensions.vstestbridge.1.5.3.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.testing.platform\\1.5.3\\microsoft.testing.platform.1.5.3.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.testing.platform.msbuild\\1.5.3\\microsoft.testing.platform.msbuild.1.5.3.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.14.0\\microsoft.testplatform.objectmodel.17.14.0.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\microsoft.testplatform.testhost\\17.14.0\\microsoft.testplatform.testhost.17.14.0.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\nunit.analyzers\\4.7.0\\nunit.analyzers.4.7.0.nupkg.sha512",
+    "C:\\Users\\vnoel\\.nuget\\packages\\nunit3testadapter\\5.0.0\\nunit3testadapter.5.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\ClassTask.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "projectPath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\ClassTaskTest.csproj",
+      "filePath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTaskTest\\ClassTaskTest.csproj",
+      "libraryId": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week8\\ClassTask\\ClassTask.csproj",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

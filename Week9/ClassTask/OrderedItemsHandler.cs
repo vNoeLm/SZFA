@@ -13,7 +13,7 @@ namespace ClassTask
     }
     public class OrderedItemsHandler
     {
-        private readonly IComparable[] items;
+        public readonly IComparable[] items;
 
         public OrderedItemsHandler(IComparable[] inputItems)
         {
@@ -106,7 +106,7 @@ namespace ClassTask
                 items[j + 1] = item;
             }
         }
-        private void Reverse()
+        public void Reverse()
         {
             int start = 0;
             int end = items.Length - 1;
@@ -123,7 +123,7 @@ namespace ClassTask
 
         // Search Methods
         #region
-        public IComparable IterativeBinarySearch(IComparable target, bool isAscending)
+        public IComparable IterativeBinarySearch(IComparable target, bool isAscending = true)
         {
             if (!IsOrdered(isAscending))
             {
