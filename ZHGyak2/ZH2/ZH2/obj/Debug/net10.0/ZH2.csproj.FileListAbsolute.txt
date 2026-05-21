@@ -1,0 +1,15 @@
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\bin\Debug\net10.0\ZH2.exe
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\bin\Debug\net10.0\ZH2.deps.json
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\bin\Debug\net10.0\ZH2.runtimeconfig.json
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\bin\Debug\net10.0\ZH2.dll
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\bin\Debug\net10.0\ZH2.pdb
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ZH2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ZH2.AssemblyInfoInputs.cache
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ZH2.AssemblyInfo.cs
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ZH2.csproj.CoreCompileInputs.cache
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ZH2.sourcelink.json
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ZH2.dll
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\refint\ZH2.dll
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ZH2.pdb
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ZH2.genruntimeconfig.cache
+C:\Users\vnoel\Documents\GitHub\SZFA\ZHGyak2\ZH2\ZH2\obj\Debug\net10.0\ref\ZH2.dll

@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtask\\phonebookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:phonebookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7BB6D63-1AA5-4998-BBC8-395E75AA72BB}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtasktest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtask\\ordereditemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:ordereditemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtask\\notordereditemsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:notordereditemsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB6D63-1AA5-4998-BBC8-395E75AA72BB}|..\\ClassTaskTest\\ClassTaskTest.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtasktest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtask\\phonebookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|solutionrelative:phonebookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67B2D9BD-8F42-33C4-33B5-402BFEF59423}|ClassTask.csproj|c:\\users\\vnoel\\documents\\github\\szfa\\week9\\classtask\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,34 +33,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:53:56.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PhoneBookItem.cs",
-              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\PhoneBookItem.cs",
-              "RelativeDocumentMoniker": "PhoneBookItem.cs",
-              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\PhoneBookItem.cs",
-              "RelativeToolTip": "PhoneBookItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T13:22:17.747Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -69,7 +43,7 @@
               "RelativeDocumentMoniker": "..\\ClassTaskTest\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTaskTest\\UnitTest1.cs",
               "RelativeToolTip": "..\\ClassTaskTest\\UnitTest1.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAADwv0EAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwIkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-23T10:48:57.547Z",
               "EditorCaption": ""
@@ -77,12 +51,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:53:56.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneBookItem.cs",
+              "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\PhoneBookItem.cs",
+              "RelativeDocumentMoniker": "PhoneBookItem.cs",
+              "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\PhoneBookItem.cs",
+              "RelativeToolTip": "PhoneBookItem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:22:17.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "OrderedItemsHandler.cs",
               "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\OrderedItemsHandler.cs",
               "RelativeDocumentMoniker": "OrderedItemsHandler.cs",
               "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\OrderedItemsHandler.cs",
               "RelativeToolTip": "OrderedItemsHandler.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAywMUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAIwIcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T22:52:39.471Z",
               "EditorCaption": ""
@@ -97,18 +96,17 @@
               "RelativeToolTip": "ItemNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T01:49:22.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T01:49:22.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "NotOrderedItemsException.cs",
               "DocumentMoniker": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\NotOrderedItemsException.cs",
               "RelativeDocumentMoniker": "NotOrderedItemsException.cs",
               "ToolTip": "C:\\Users\\vnoel\\Documents\\GitHub\\SZFA\\Week9\\ClassTask\\NotOrderedItemsException.cs",
               "RelativeToolTip": "NotOrderedItemsException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T01:45:04.027Z",
               "EditorCaption": ""
